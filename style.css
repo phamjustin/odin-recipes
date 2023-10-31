@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.recipe-name {
+    font-size: 22px;
+    color: white;
+}
+
+.recipe-name:hover {
+    color: blue;
+}
+
+li {
+    text-align: left;
+}
